@@ -1,4 +1,4 @@
-# Hi there, I am Jack Kay! 
+# Hi there, I am Jack Kay, a UX/UI Designer with coding skills! 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jackkayak&theme=nightowl&show_icons=true" alt="Jack Kay's GitHub stats" />
 
